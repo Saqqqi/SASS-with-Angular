@@ -1,0 +1,37 @@
+.Component3 {
+  height: 470px;
+  border: 1px solid black;
+}
+.Component3 .boxb {
+  display: flex;
+  flex-direction: row;
+  margin: 100px 100px;
+}
+.Component3 .boxb .h3 {
+  color: #555555;
+  font-size: 18px;
+  margin-top: 5px;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  width: 710px;
+  font-family: "frank ruhl libre";
+}
+.Component3 .boxb .hh {
+  color: #555555;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  font-family: "frank ruhl libre";
+  width: 710px;
+  font-size: 18px;
+}
+.Component3 .boxb .h1 {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: "frank ruhl libre";
+}
+.Component3 .boxb .img {
+  width: 280px;
+  height: 230px;
+  margin-left: 80px;
+  border: 1px solid black;
+}/*# sourceMappingURL=style.css.map */
